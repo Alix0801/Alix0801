@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python , Data Science and Machine Learning 
 - 💞️ I’m looking to collaborate on Open Sources Project
-- 📫 How to reach me ntep.alix@gmail.com or +237 695 39 31 42
+- 📫 How to reach me ntep.alix@gmail.com or +1 437 5757 280
 
 <!---
 Alix0801/Alix0801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
